@@ -1,10 +1,10 @@
 
 # Computer Architecture Project
- This project had been implemented by 
- Siavash Rahimi Shateranloo
- Mahdi Shafiei
- Amirmohammad Eftekhar 
- Sogand Salehi
+ ##This project had been implemented by 
+ ###Siavash Rahimi Shateranloo
+ ###Mahdi Shafiei
+ ###Amirmohammad Eftekhar 
+ ###Sogand Salehi
  
  We have implemented a fully functional Mips processor with a floating point co prossecor. 
  
